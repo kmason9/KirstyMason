@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kirsty Mason</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmason9" alt="kmason9" /></a> </p>
-
 - 🔭 I’m currently working on **building my skills as a full-stack developer**
 
 - 🌱 I’m planning to learn more about **React and Rue.js**
