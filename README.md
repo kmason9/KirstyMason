@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **building my skills as a full-stack developer**
 
-- 🌱 I’m planning to learn more about **React and Vue.js**
+- 🌱 I’m currently learning **React** and plan to build my skills in **Python**
 
 - 📫 How to reach me **kirsty_mason9@hotmail.com**
 
